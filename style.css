@@ -1,0 +1,32 @@
+/* styles.css */
+
+#Title 
+{
+    font-family: 'Your Fancy Font', sans-serif; 
+    font-size: 36px; 
+    color: #1d8c54; 
+    text-align: center; 
+    margin-bottom: 20px; 
+}
+
+#tx
+{
+    font-family: 'Your Fancy Font', sans-serif; 
+    font-size: 18px; 
+    color: #196c9f;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#userText
+{
+    font-family: 'Your Fancy Font', sans-serif; 
+    font-size: 18px; 
+    color: #196c9f;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.input-container {
+    text-align: center;
+  }
